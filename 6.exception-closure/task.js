@@ -46,6 +46,6 @@ function getTriangle(a, b, c) {
       get area() {
         return "Ошибка! Треугольник не существует";
       } 
-    };
+    }
   }
 }
